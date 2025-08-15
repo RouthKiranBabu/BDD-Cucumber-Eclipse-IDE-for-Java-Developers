@@ -55,5 +55,5 @@
  - In the Login.feature -> make dryRun = false -> run the TestRun.java -> Junit Test watch the output
 
 # 📃 Previous Assignments
-- [1. Click here](https://github.com/RouthKiranBabu/Masai-School-Journey/tree/main/Lectures/Selenium/Cucumber)
-- [2. BDD Cucumber with POM(Page Object Models)](https://github.com/RouthKiranBabu/Masai-School-Journey/tree/main/Assignment/Cucumber/CCP_Block3_S4%20%20Page%20Object%20Model%20%26%20Implementation/Group_artifact_id)
+- [1. BDD Cucumber with POM(Page Object Models)](https://github.com/RouthKiranBabu/Masai-School-Journey/tree/main/Assignment/Cucumber/CCP_Block3_S4%20%20Page%20Object%20Model%20%26%20Implementation/Group_artifact_id)
+- [2. Click here](https://github.com/RouthKiranBabu/Masai-School-Journey/tree/main/Lectures/Selenium/Cucumber)
