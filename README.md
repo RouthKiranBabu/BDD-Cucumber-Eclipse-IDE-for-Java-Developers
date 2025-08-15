@@ -1,7 +1,7 @@
-# Test Execution
+# 🧪 Test Execution
 <img src = 'Cucumber Result.gif'/>
 
-# Guide
+# 🪜 Guide
 ## Create the maven Project and Guide:
  - File -> New -> Others -> Maven(Folder) -> Maven Project -> Next -> Next -> In the New Maven Project -> Select Catalog as Internal -> next -> provide same name of the Project in the Group id and Artifact id -> Finish
  - Wait for some time for download progress. Enter Y then Press enter key.
@@ -46,9 +46,14 @@
  - Write -> in -> Steps.java
  - Inside the testRunner -> Create Class -> TestRun.java
  - Write -> in -> TestRun.java
-   > [!WARNING]
-   > If you face error line over '@RunWith(Cucumber.class)' Hover over it and select first option.
+
+> [!WARNING]
+> If you face error line over '@RunWith(Cucumber.class)' Hover over it and select first option.
+
  - refresh the project -> In the target Folder -> Open the htmlreport.html ->  Open with System Editor
  - In the Login.feature -> add the Scenario Outline and examples in the Testrun.java -> make dryRun = true -> run the TestRun.java -> Junit Test watch the output
  - In the Login.feature -> make dryRun = false -> run the TestRun.java -> Junit Test watch the output
-- Previous Assignment link: [Click here](https://github.com/RouthKiranBabu/Masai-School-Journey/tree/main/Lectures/Selenium/Cucumber)
+
+# 📃 Previous Assignments
+- [1. Click here](https://github.com/RouthKiranBabu/Masai-School-Journey/tree/main/Lectures/Selenium/Cucumber)
+- [2. BDD Cucumber with POM(Page Object Models)](https://github.com/RouthKiranBabu/Masai-School-Journey/tree/main/Assignment/Cucumber/CCP_Block3_S4%20%20Page%20Object%20Model%20%26%20Implementation/Group_artifact_id)
