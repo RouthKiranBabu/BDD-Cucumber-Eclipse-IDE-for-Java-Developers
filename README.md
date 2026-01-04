@@ -31,7 +31,7 @@
 |-> pom.xml<br>
  - In the Drivers folder -> add the necessary drivers.<br>Link for Drivers -> https://github.com/RouthKiranBabu/Masai-School-Journey/tree/main/Lectures/Selenium/Cucumber/Drivers
  - Right Click -> Features Folder -> New -> File -> Name: Login.feature -> Finish -> Write in [Login.feature](https://github.com/RouthKiranBabu/BDD-Cucumber-Eclipse-IDE-for-Java-Developers/blob/main/maven_project_groid/Features/simple_form_Login.feature).
- - In the pageObjects package -> Create class -> Name: LoginPage -> Finish -> Write in LoginPage.java
+ - In the pageObjects package -> Create class -> Name: LoginPage -> Finish -> Write in [LoginPage.java](https://github.com/RouthKiranBabu/BDD-Cucumber-Eclipse-IDE-for-Java-Developers/blob/main/maven_project_groid/src/test/java/pageObjects/formPage_setup.java)
  - Right click -> stepDefinitions -> New -> Class -> Name -> Steps -> Finish
  - Right Click -> MavenProject -> Maven -> Update Project -> OK
  - Login.feature -> Run as -> Cucumber Feature
