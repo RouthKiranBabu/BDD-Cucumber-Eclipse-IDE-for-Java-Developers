@@ -39,7 +39,7 @@
  - Name Correct -> Project Name
  - Enter the correct Feature Path if needed -> Apply -> Run
  - In the Login.feature -> Right click -> Run as -> Cucumber Feature
- - Copy the methods shown at Console -> Paste in the Steps.java
+ - Copy the methods shown at Console -> Paste in the [Steps.java](https://github.com/RouthKiranBabu/BDD-Cucumber-Eclipse-IDE-for-Java-Developers/blob/main/maven_project_groid/src/test/java/stepDefinitions/Steps.java)
  - Then remove the following from the Steps.java:<br>```
    // Write code here that turns the phrase above into concrete actions
    throw new io.cucumber.java.PendingException();```
